@@ -1,5 +1,6 @@
-###4-Player Splitscreen Demo
+4-Player Splitscreen Demo
+===
 
 This is a small project that has the layout of a local splitscreen game akin to one found on the Nintendo 64. Please note that this is _not_ a fully functional demo; it's not even close. It's mainly to demonstrate how a 4-player splitscreen game could be laid out.
 
-
+![Screenshot](example.png)
